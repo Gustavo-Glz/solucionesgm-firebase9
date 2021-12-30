@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Productos from '@/components/admin/Productos.vue'
+import Productos from '~/components/admin/NuevoProducto.vue'
 export default {
   components: {
     Productos,
